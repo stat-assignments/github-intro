@@ -42,14 +42,14 @@ To learn more about repositories read ["Creating, Cloning, and Archiving Reposit
 You can use branches on GitHub to isolate work that you do not want merged into your final project just yet. Branches allow you to develop features, fix bugs, or safely experiment with new ideas in a contained area of your repository. Typically, you might create a new branch from the default branch of your repository—main. This makes a new working copy of your repository for you to experiment with. Once your new changes have been reviewed by a teammate, or you are satisfied with them, you can merge your changes into the default branch of your repository.
 To learn more about branching, read ["About Branches"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches).
  
-Note: In Stat 850, you will not be required to use branches unless you want to.
+Note: In this class, you will not be required to use branches.
 
 ### Forks
 A fork is another way to copy a repository, but is usually used when you want to contribute to someone else’s project. Forking a repository allows you to freely experiment with changes without affecting the original project and is very popular when contributing to open source software projects!
 To learn more about forking, read ["Fork a repo"](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo)
 
  
-Note: In Stat 850, you will not be required to use forks unless you want to.
+Note: In this class, you will not be required to use forks.
 
 
 ### Pull requests
@@ -57,7 +57,7 @@ When working with branches, you can use a pull request to tell others about the 
 To learn more about pull requests, read ["About Pull Requests"](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests). 
 
  
-Note: In Stat 850, you will not be required to use pull requests unless you want to.
+Note: In this course, you will not be required to use pull requests.
 
 ### Issues
 Issues are a way to track enhancements, tasks, or bugs for your work on GitHub. Issues are a great way to keep track of all the tasks you want to work on for your project and let others know what you plan to work on. You can also use issues to tell a favorite open source project about a bug you found or a feature you think would be great to add!
