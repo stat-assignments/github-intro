@@ -98,7 +98,8 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 ## 📝 Next steps 
 * Clone this repository to your local machine
-* On your local machine, create a new markdown file in this repository named 'About_Me.md'. Provide a short biography/introduction for yourself and use markdown formatting (headers, bulleted lists, etc.)
+* On your local machine, create a new markdown file in this repository named 'About_Me.md'. Provide a short biography/introduction for yourself and use markdown formatting 
+  * You must use at least the following formatting elements: header, subheader, bold, italic, bulleted list, and an image. 
 * Commit your changes to your new file locally and push them back to your github repository. Check on Github to make sure the new file appears.
 * To get full credit for your assignment, you will need to have worked with your git repository locally. I will be able to see if you have used the github editor to make your changes instead :). 
 
